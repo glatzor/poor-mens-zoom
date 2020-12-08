@@ -2,8 +2,8 @@
 
 ## Introdcution
  
-This little tool helps to read scientific papers in PDF on the remarkable epaper tablet by
-splitting portait orientied pages into two landscape pages (a top and a bottom one).
+This little tool helps to read scientific PDF papers on the remarkable epaper tablet by
+splitting portrait oriented pages into two landscape pages (a top and a bottom one).
 
 Unfortunaltely the remarkable doesn't support zooming to a document by rotating it from
 portait to landscape. So this a poor men's zoom.
