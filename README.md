@@ -18,7 +18,7 @@ Just run the scrip in the command line, e.g.
 
  ./poor-mens-zoom.py my_paper.pdf
 
-This will create a file call my_paper_zoomed.pdf which you can upload to your remarkable.
+This will create a file called my_paper_zoomed.pdf which you can upload to your remarkable.
 
 ## Shortcommings
 
